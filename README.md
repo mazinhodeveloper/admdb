@@ -1,11 +1,10 @@
 # Administrador de Banco de Dados 
 Neste lugar estou compartilhando conteúdo sobre Banco de Dados. 
 
-> ---
 > ## UC2 Projeto 
 >
 > ### Projeto de Banco de Dados de E-commerce 
-Script SQL para gerenciar produtos, clientes, vendas e movimentações de estoque com gatilhos. 
+> Script SQL para gerenciar produtos, clientes, vendas e movimentações de estoque com gatilhos. 
 > 
 > * Banco e Tabelas  
 >   * Criação de Banco de Dados e Estrutura de Tabelas 
@@ -27,7 +26,7 @@ Script SQL para gerenciar produtos, clientes, vendas e movimentações de estoqu
 >
 > * Junções
 >   * Exemplos de Junções 
-> ---
+
 
 
 
