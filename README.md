@@ -1,9 +1,9 @@
 # Administrador de Banco de Dados 
 Neste lugar estou compartilhando conteúdo sobre Banco de Dados. 
 
-> ## UC2 Projeto 
+> ## [UC2 Project](/tree/main/uc2-projeto "Diretório UC2 Project") 
 >
-> ### Projeto de Banco de Dados de E-commerce 
+> ### [Projeto de Banco de Dados de E-commerce](/tree/main/uc2-projeto#projeto-de-banco-de-dados-de-e-commerce "Diretório UC2 Project - Projeto de Banco de Dados de E-commerce") 
 > Script SQL para gerenciar produtos, clientes, vendas e movimentações de estoque com gatilhos. 
 > 
 > * Banco e Tabelas  
@@ -30,4 +30,4 @@ Neste lugar estou compartilhando conteúdo sobre Banco de Dados.
 
 
 
-... If I'm living, I'm learning! 
+... If I'm living, I'm still learning! 
