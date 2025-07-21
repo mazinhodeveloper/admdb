@@ -3,7 +3,7 @@ Neste lugar estou compartilhando conteúdo sobre Banco de Dados.
 
 > ## [UC2 Project](https://github.com/mazinhodeveloper/admdb/tree/main/uc2-projeto "Diretório UC2 Project") 
 >
-> ### [Projeto de Banco de Dados de E-commerce](https://github.com/mazinhodeveloper/admdb/tree/main/uc2-projeto#projeto-de-banco-de-dados-de-e-commerce "Diretório UC2 Project - Projeto de Banco de Dados de E-commerce") 
+> ### Projeto de Banco de Dados de E-commerce 
 > Script SQL para gerenciar produtos, clientes, vendas e movimentações de estoque com gatilhos. 
 > 
 > * Banco e Tabelas  
