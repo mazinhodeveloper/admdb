@@ -23,3 +23,6 @@ Script SQL para gerenciar produtos, clientes, vendas e movimentações de estoqu
 
 * Junções
   * Exemplos de Junções 
+  
+* MER
+  * Modelo de Entidade Relacionamento 

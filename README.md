@@ -26,6 +26,9 @@ Neste lugar estou compartilhando conteúdo sobre Banco de Dados.
 >
 > * Junções
 >   * Exemplos de Junções 
+>
+> * MER
+>   * Modelo de Entidade Relacionamento 
 
 
 
